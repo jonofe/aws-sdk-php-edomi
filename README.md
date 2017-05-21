@@ -1,1 +1,1 @@
-# php5.6-edomi
+# php56-edomi
