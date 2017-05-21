@@ -1,1 +1,1 @@
-# aws-sdk-php-edomi
+# php5.6-edomi
